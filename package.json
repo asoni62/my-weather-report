@@ -11,7 +11,7 @@
     "express": "^4.15.3"
   },
   "scripts": {
-  "start": "node weatherapp.js"
+  "start": "node weatherreport.js"
   },
   "devDependencies": {
     "bootstrap": "^3.3.5",
